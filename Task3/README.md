@@ -101,7 +101,8 @@ Forecasting shows steady growth ahead, with weekend spikes.
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/pizza-place-sales.git
+git clone https://github.com/Abdulmuj33b/TECHCHRUSH_PROJECTS/edit/main/Task3/pizza-place-sales.git
+
 cd pizza-place-sales
 
 
